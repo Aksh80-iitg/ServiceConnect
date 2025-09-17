@@ -1,0 +1,1 @@
+export default ()=> <div className='p-6'><h2 className='text-2xl font-bold'>Search Services</h2></div>;

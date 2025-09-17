@@ -1,0 +1,1 @@
+export default ()=> <div className='p-6 text-center'><h1 className='text-4xl font-bold text-indigo-600'>Service Connect</h1><p>Find trusted services in Indore.</p></div>;
